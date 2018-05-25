@@ -24,7 +24,7 @@ from Adafruit_bitfield import Adafruit_bitfield
 from time import sleep
 import math
 
-CCS811_ADDRESS  =  0x5B
+CCS811_ADDRESS  =  0x5b
 
 CCS811_STATUS = 0x00
 CCS811_MEAS_MODE = 0x01
